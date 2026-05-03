@@ -1,0 +1,5 @@
+chrome.exe running normally
+background_listener.exe started
+keyboard_hook activated
+system idle process
+hidden_keylogger.exe capturing input
