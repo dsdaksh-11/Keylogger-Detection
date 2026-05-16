@@ -130,11 +130,6 @@ It does not perform real-time system monitoring or actual keylogger detection.
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your GUI here)*
-
----
 
 ## 👨‍💻 Author
 
